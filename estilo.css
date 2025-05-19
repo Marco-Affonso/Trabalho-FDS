@@ -1,0 +1,46 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: #323f6b;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul {
+    line-height: 3;
+}
+
+.hobby-imagem {
+    width: 300px;
+    border-radius: 10px;
+    display: block;
+    margin-top: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4500;
+}
