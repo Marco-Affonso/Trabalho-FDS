@@ -1,7 +1,7 @@
 body {
     background-color: #f0f8ff;
     font-family: Arial, sans-serif;
-    padding: 20px;
+    padding: 16px;
 }
 
 h1 {
@@ -15,11 +15,11 @@ p {
 }
 
 ul {
-    line-height: 5;
+    line-height: 2;
 }
 
 .hobby-imagem {
-    width: 300px;
+    width: 700px;
     border-radius: 10px;
     display: block;
     margin-top: 10px;
@@ -42,5 +42,5 @@ a {
 }
 
 a:hover {
-    color: #ff4500;
+    color: #ad4d29;
 }
