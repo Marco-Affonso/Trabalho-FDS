@@ -5,17 +5,17 @@ body {
 }
 
 h1 {
-    color: #323f6b;
+    color: #2f4cac;
     text-align: center;
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
     text-align: justify;
 }
 
 ul {
-    line-height: 3;
+    line-height: 5;
 }
 
 .hobby-imagem {
